@@ -18,7 +18,7 @@ def first_element(array)
   array.first
 end
 
-def third_element(array)
+def third_element(array) #accessed array using index position, first element is [0]
   array[2] 
 end
 
